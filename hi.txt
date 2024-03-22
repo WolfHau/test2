@@ -1,4 +1,5 @@
 das is cool aber irgendwie auch nicht 
+<<<<<<< HEAD
 c++c++
 <<<<<<< HEAD
 zusätzliche sachen sind auch wichtig zu machen 
@@ -7,3 +8,8 @@ blar blar balr
 wivzweugofe
 wefüowefoü
 >>>>>>> onef
+=======
+c++
+>>>>>>> parent of ca1d09c (weiter gearbeitet)
+
+fxtzguhij
