@@ -1,9 +1,10 @@
 das is cool aber irgendwie auch nicht 
 c++c++
-<<<<<<< HEAD
-zusätzliche sachen sind auch wichtig zu machen 
+<<<<<<< h wichtig zu machen 
 blar blar balr
 =======
 wivzweugofe
 wefüowefoü
 >>>>>>> onef
+
+______________________________________________________
